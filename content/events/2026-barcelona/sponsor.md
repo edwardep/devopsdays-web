@@ -6,6 +6,12 @@ Description = "Sponsor devopsdays Barcelona 2026"
 
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
 
+<table border=1 cellspacing=1>
+  <tr>
+    <td><h1>We greatly value sponsors for this community event. If you are interested in sponsoring, please click here to <a href="https://drive.google.com/file/d/1tREYUFp7R393y3qkyHBhXjqRv-8i3rj9/view?usp=sharing" target="_blank"><strong>download the prospectus PDF</strong></a>. After reviewing the available packages, please submit your sponsorship request using <a href="https://docs.google.com/forms/d/e/1FAIpQLSfIDK0KR7wqN4sJgIVVozTjT8Vf-E5GJSVeZdL9rTDBTsmhzw/viewform"><strong>our form</strong></a>.</h1></td>
+  </tr>
+</table>
+
 <hr>
 
 devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
